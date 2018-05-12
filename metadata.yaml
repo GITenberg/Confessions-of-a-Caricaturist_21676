@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
 description: Contient notamment (p. 13) une caricature de Paderewski.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21676#Confessions-of-a-Caricaturist
 gutenberg_issued: '2007-06-04'
 gutenberg_type: Text
 identifiers:
