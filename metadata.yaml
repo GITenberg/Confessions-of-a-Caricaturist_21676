@@ -1,0 +1,38 @@
+_repo: Confessions-of-a-Caricaturist_21676
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21676-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+description: Contient notamment (p. 13) une caricature de Paderewski.
+gutenberg_issued: '2007-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21676'
+  lccn: '17024407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Caricatures and cartoons'
+- !lcsh 'Humorous poetry'
+tableOfContents: William Dean Howells -- Napoleon -- Dante -- Theodore Roosevelt --
+  Rudyard Kipling -- Ignace Jan Paderewski -- Daniel Frohman -- Charles W. Eliot --
+  J. Pierpont Morgan -- Gilbert K. Chesterton -- Guglielmo Marconi -- George Bernard
+  Shaw -- Brander Matthews -- John S. Sargent -- Arnold Bennett -- Shakespeare --
+  William Howard Taft -- G. K. Chesterton -- David Belasco -- Henrik Ibsen -- J. Forbes-Robertson
+  -- John Drew -- Israel Zangwill -- George Bernard Shaw -- Peter Dunne -- Saint Paul
+  -- John D. Rockefeller -- Hiram Maxim -- George Ade -- Christopher Columbus -- F.
+  W. Hohenzollern -- Hafiz.
+title: Confessions of a Caricaturist
+url: http://www.gutenberg.org/ebooks/21676
